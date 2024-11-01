@@ -5,7 +5,7 @@ function OrderInfo({product, quantity, totalPrice}) {
             <table>
                 <thead>
                     <tr>
-                        <th><b>Prdouct</b></th>
+                        <th><b>Product</b></th>
                         <th><b>Quantity</b></th>
                         <th><b>Total</b></th>
                     </tr>
