@@ -9,7 +9,7 @@ function OrderInfo({product, quantity, totalPrice}) {
                         <th><b>Quantity</b></th>
                         <th><b>Total</b></th>
                     </tr>
-                </thead>
+                </thead>    
                 <tbody>
                     <tr>
                         <td>{product}</td>

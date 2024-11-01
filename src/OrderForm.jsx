@@ -1,5 +1,5 @@
 import { useState } from "react";
-import {OrderInfo} from "./OrderInfo";
+import OrderInfo from './OrderInfo'
 
 function OrderForm() {
 
